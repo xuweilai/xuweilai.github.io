@@ -1,0 +1,47 @@
+# Menu
+menu:
+  主页: /
+  归档: /archives
+  相册: /gallery
+  关于: /about
+rss: /atom.xml
+
+
+# Miscellaneous
+favicon: /favicon.ico
+brand: /images/hexo.svg
+
+# Ocean Video
+# Because I put videos in multiple formats on the same path, I just labeled the path here.
+ocean:
+  overlay: true
+  path: /images/ocean/
+  brand: /images/hexo-inverted.svg
+
+# Content
+excerpt_link: Read More...
+share_text: Share
+search_text: 搜索
+nav_text:
+  page_prev: Prev page
+  page_next: Next page
+  post_prev: Newer posts
+  post_next: Olde posts
+
+# Tags
+show_count: false
+
+# Toc
+toc: true
+
+# fancybox
+fancybox: true
+
+# Gitalk
+gitalk:
+  enable: true
+  clientID: de4b2f29f0b178475dbc
+  clientSecret: 2a9b693205d8057e762c32c411ed80179fae0577
+  repo: xuweilai
+  owner: xuweilai
+  admin: xuweilai
