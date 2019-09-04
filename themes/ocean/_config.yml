@@ -4,6 +4,7 @@ menu:
   归档: /archives
   相册: /gallery
   关于: /about
+  标签: /tags
 rss: /atom.xml
 
 
@@ -19,8 +20,8 @@ ocean:
   brand: /images/hexo-inverted.svg
 
 # Content
-excerpt_link: Read More...
-share_text: Share
+excerpt_link: 查看更多
+#share_text: Share
 search_text: 搜索
 nav_text:
   page_prev: Prev page
@@ -45,3 +46,5 @@ gitalk:
   repo: xuweilai
   owner: xuweilai
   admin: xuweilai
+
+language: zh-CN
